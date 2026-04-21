@@ -1,3 +1,5 @@
 # Sheltic-CE
 
-Still unfinished. I will touch-up when alpha releases.
+Almost done, but still early alpha.
+
+<img src="https://i.ibb.co/F44wgcBC/Gif.png" alt="" width="400">
